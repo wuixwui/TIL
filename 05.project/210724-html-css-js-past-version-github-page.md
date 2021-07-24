@@ -1,6 +1,7 @@
-| date | 21.07.24 |
-| title | Past.version GitHub main page |
-| skill | html css js |
+| date | title | skill |
+|:---:|:---:|:---:|
+| 21.07.24 | Past.version GitHub main page | html css js |
+
 
 ---
 
