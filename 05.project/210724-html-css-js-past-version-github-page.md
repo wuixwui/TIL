@@ -1,6 +1,7 @@
-| date | 21.07.24 |
-| title | Past.version GitHub main page |
-| skill | html css js |
+| date | title | skill |
+|:---:|:---:|:---:|
+| 21.07.24 | Past.version GitHub main page | html css js |
+
 
 ---
 
@@ -10,4 +11,5 @@
 2. Vender prefix
 3. Gloval property
 
+[Related github](https://github.com/wuixwui/github-page#readme)
 
