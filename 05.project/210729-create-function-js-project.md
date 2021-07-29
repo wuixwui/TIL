@@ -10,3 +10,5 @@
 1. create getItemByAmount function
 2. querySelector
 3. addEventListener
+
+[link](https://github.com/wuixwui/KDT_HW-Repository)
