@@ -14,6 +14,6 @@
 3. 오타 주의
 4. prettier
 5. svg
-6. vender prefix
+6. vendor prefix
 
 
