@@ -1,6 +1,6 @@
 |   date   |    title     | skill  |
 | :------: | :----------: | :----: |
-| 21.08.03 | Basic Python | python |
+| 21.08.02 | Basic Python | python |
 
 ---
 
