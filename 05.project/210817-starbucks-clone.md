@@ -15,8 +15,6 @@
 
 # 0817
 
-# 0817
-
 ## JS library
 
 - swiper
